@@ -949,6 +949,8 @@ supported_targets! {
     ("bpfel-unknown-none", bpfel_unknown_none),
 
     ("armv6k-nintendo-3ds", armv6k_nintendo_3ds),
+
+    ("x86_64-unknown-none-elf", x86_64_unknown_none_elf),
 }
 
 /// Warnings encountered when parsing the target `json`.
